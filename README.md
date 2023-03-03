@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aakruti</h1>
 <h3 align="center">Data-driven problem solver with a passion for AI and machine learning.</h3>
 
-- 🔭 I’m currently working on **Lip reading using ML (LipNet)**
+- 🔭 I’m currently working on **Lip reading using Deep Learning (LipNet)**
 
 - 🌱 I’m currently learning **Power BI and Time series analysis**
 
-- 💬 Ask me about **python, data mining, machine learning or deep learning**
+- 💬 Ask me about **computer science, python, data mining, machine learning or deep learning**
+
+- 💻 I aspire to **work with machine learning in a diverse team to solve new interesting problems**
 
 - 📫 How to reach me **aakruti.mishra@yahoo.com**
 
