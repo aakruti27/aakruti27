@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakruti</h1>
-<h3 align="center">Data-driven problem solver with a passion for AI and machine learning.</h3>
+<h3 align="center">Data-driven problem solver with expertise AI and machine learning.</h3>
 
 - 🔭 I’m currently working on **Lip reading using Deep Learning (LipNet)**
 
