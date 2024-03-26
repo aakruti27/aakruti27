@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aakruti</h1>
 <h3 align="center">Data-driven problem solver with expertise AI and machine learning.</h3>
 
-- 🔭 I’m currently working on **Lip reading using Deep Learning (LipNet)**
+- 🔭 I’m currently working on **Digitalizing sticky notes**
 
-- 🌱 I’m currently learning **Power BI and Time series analysis**
+- 🌱 I’m currently learning **Causal Machine Learning**
 
 - 💬 Ask me about **computer science, python, data mining, machine learning or deep learning**
 
