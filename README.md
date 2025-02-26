@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Digitalizing sticky notes**
 
-- 🌱 I’m currently learning **Causal Machine Learning**
+- 🌱 I’m currently learning **MLOps**
 
 - 💬 Ask me about **computer science, python, data mining, machine learning or deep learning**
 
