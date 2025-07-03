@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakruti</h1>
 <h3 align="center">Data-driven problem solver with expertise AI and machine learning.</h3>
 
-- 🔭 I’m currently working on **Digitalizing sticky notes**
+- 🔭 I’m currently working on **Text 2 SQL and LLM Agents**
 
 - 🌱 I’m currently learning **MLOps**
 
